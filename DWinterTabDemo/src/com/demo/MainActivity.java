@@ -1,4 +1,4 @@
-package com.demo;
+﻿package com.demo;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,7 +20,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Tab页面手势滑动切换以及动画效果
+ * Tab页面手势
  * 
  * @author D.Winter
  * 
