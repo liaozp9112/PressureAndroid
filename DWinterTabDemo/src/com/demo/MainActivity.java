@@ -20,7 +20,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Tab页面手势
+ * Tab页面手势滑动切换以及动画效果
  * 
  * @author D.Winter
  * 
